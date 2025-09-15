@@ -1,4 +1,5 @@
 # sg-demo
 this is my first Git Repository.
 <br>
-Author - Sugandh Gupta
+Author - SG (Sugandh Gupta)
+
